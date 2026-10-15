@@ -1,0 +1,11 @@
+# Generated Java build output
+/build/
+*.class
+
+# Local files and credentials
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
